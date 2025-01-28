@@ -4,7 +4,7 @@ This repository contains the code and documentation for three distinct tasks:
 
 1.Credit Score Prediction: The second task focused on predicting credit scores using machine learning techniques.
 The code for this task is organized in the credit_score_prediction directory.
-Key files include:<\n>
+Key files include:<br>
 *credit_score_prediction.ipynb: Jupyter Notebook containing the code for data preprocessing, model development, and performance evaluation.
 *credit_score_prediction_test.ipynb: Jupyter Notebook containing the code for testing the model prepared on a sample dataset.
 *lgb_model.pkl: Trained model
