@@ -10,5 +10,3 @@ Key files include:
   *lgb_model.pkl: Trained model
   *data/: Folder containing the dataset utilized for training and testing the credit score prediction model.
     Note: The train dataset is to be converted from xlsx to csv before using. It was uploaded as xlsx due to large size.
-
-  
